@@ -1,0 +1,7 @@
+Employee_ID,First_Name,Last_Name,Department_Name,Manager_Name,Email,Phone_Number,Hire_Date,Salary,Date_As_On
+101,Alice,Smith,HR,Eve Adams,alice.smith@example.com,123-456-7890,15/01/20,60000,21/01/25
+102,Bob,Johnson,Finance,Frank Miller,bob.johnson@example.com,234-567-8901,22/03/19,70000,21/01/25
+103,Charlie,Williams,IT,Grace Lee,charlie.williams@example.com,345-678-9012,11/07/21,80000,21/01/25
+104,Diana,Brown,Marketing,Hank Green,diana.brown@example.com,456-789-0123,01/10/18,75000,21/01/25
+105,Edward,Jones,Operations,Ivy White,edward.jones@example.com,567-890-1234,19/04/22,67000,21/01/25
+106,Hariharan,Anbazhagan,IT,Mohan,hari.anbu@example.com,678-901-234,10/11/24,75000,21/01/25
